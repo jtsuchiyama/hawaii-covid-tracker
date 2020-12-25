@@ -1,4 +1,5 @@
-# Hawaii COVID Tracker
+Hawaii COVID Tracker
+======================
 # Introduction
 The Hawaii COVID Tracker can do the following:
 - Automatically update the case count relative to the previous entry
